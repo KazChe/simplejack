@@ -13,10 +13,6 @@ A lightweight, customizable terminal spinner for Node.js applications.
 
 ## Installation
 
-```bash
-npm install simplejack
-```
-
 ## Usage
 
 ```javascript
