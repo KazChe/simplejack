@@ -1,4 +1,4 @@
-# SimpleSpinner
+# simplejack
 
 A lightweight, customizable terminal spinner for Node.js applications.
 
