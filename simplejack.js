@@ -1,4 +1,4 @@
-class SimpleSpinner {
+class Simplejack {
   frames;
   interval;
   currentFrame;
@@ -68,4 +68,4 @@ class SimpleSpinner {
     this.currentFrame = (this.currentFrame + 1) % this.frames.length;
   }
 }
-export default SimpleSpinner;
+export default Simplejack;
